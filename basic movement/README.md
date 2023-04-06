@@ -37,6 +37,10 @@ Untuk menjalankan code ini kalian harus punya compiler bahasa c seperti :
 
 Tapi saya lebih menyarankan menggunakan clang
 
+## Screenshots
+
+[Screenshot](https://media.discordapp.net/attachments/950235400969003029/1093569593693454356/image.png)
+
 ## Authors
 
 - [NcullPurnama](https://github.com/NcullPurnama)
